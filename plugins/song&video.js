@@ -16,21 +16,21 @@ const search = await yts(q)
 const data = search.videos[0]
 const url = data.url
 
-let desc = `╭━❮◆ MvelaseAI-XMD SONG DOWNLOADER ◆❯━╮
+let desc = `╭━❮◆ 𝗠𝘃𝗲𝗹𝗮𝘀𝗲𝗔𝗜-𝗫𝗠𝗗 𝗦𝗢𝗡𝗚 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ◆❯━╮
 
-┃➤✰ 𝚃𝙸𝚃𝙻𝙴 : ${data.title}
+┃➤✪ 𝙏𝙄𝙏𝙏𝙇𝙀 : ${data.title}
 
-┃➤✰ 𝚅𝙸𝙴𝚆𝚂 : ${data.views}
+┃➤✪ 𝙑𝙄𝙀𝙒𝙎 : ${data.views}
 
-┃➤✰ 𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝚃𝙸𝙾𝙽 : ${data.description}
+┃➤✪ 𝘿𝙀𝙎𝘾𝙍𝙄𝙋𝙏𝙄𝙊𝙉 : ${data.description}
 
-┃➤✰𝚃𝙸𝙼𝙴 : ${data.timestamp}
+┃➤✪𝙏𝙄𝙈𝙀 : ${data.timestamp}
 
-┃➤  𝙰𝙶𝙾 :  ${data.ago}
+┃➤✪𝘼𝙂𝙊 :  ${data.ago}
 ╰━━━━━━━━━━━━━━━⪼
 
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ
+> ©𝗠𝘃𝗲𝗹𝗮𝘀𝗲𝗔𝗜-𝗫𝗠𝗗 𝗕𝗢𝗧𝗜𝗜
 `
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
 
@@ -63,21 +63,21 @@ const search = await yts(q)
 const data = search.videos[0]
 const url = data.url
 
-let des = `╭━❮◆ MvelaseAI-XMD VIDEO DOWNLOADER ◆❯━╮
+let des = `╭━❮◆ 𝗠𝘃𝗲𝗹𝗮𝘀𝗲𝗔𝗜-𝗫𝗠𝗗 𝗩𝗜𝗗𝗘𝗢 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ◆❯━╮
 
-┃➤✰ 𝚃𝙸𝚃𝙻𝙴 : ${data.title}
+┃➤✰ 𝗧𝗜𝗧𝗟𝗘☘ : ${data.title}
 
-┃➤✰ 𝚅𝙸𝙴𝚆𝚂 : ${data.views}
+┃➤✰ 𝗩𝗜𝗘𝗪𝗦☘ : ${data.views}
 
-┃➤✰ 𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝚃𝙸𝙾𝙽 : ${data.description}
+┃➤✰ 𝗗𝗘𝗦𝗖𝗥𝗜𝗣𝗧𝗜𝗢𝗡☘ : ${data.description}
 
-┃➤✰𝚃𝙸𝙼𝙴 : ${data.timestamp}
+┃➤✰ 𝗧𝗜𝗠𝗘☘ : ${data.timestamp}
 
-┃➤  𝙰𝙶𝙾 :  ${data.ago}
+┃➤✰ 𝗔𝗚𝗢☘ :  ${data.ago}
 ╰━━━━━━━━━━━━━━━⪼
 
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ
+> ©𝗠𝘃𝗲𝗹𝗮𝘀𝗲𝗔𝗜-𝗫𝗠𝗗 𝗕𝗢𝗧𝗜𝗜
 `
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:des},{quoted:mek});
 
