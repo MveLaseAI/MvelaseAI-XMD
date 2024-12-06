@@ -10,7 +10,7 @@
 
 ![forks](https://img.shields.io/github/forks/MvelaseAI/MvelaseAI-XMD?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/kingmalvn/MIKU-MD?style=social)
+![stars](https://img.shields.io/github/stars/MveLaseAI/MvelaseAI-XMD?style=social)
 
 
 
@@ -21,7 +21,7 @@
 
   <p align="center">  
   <a href="https://files.catbox.moe/h6aff2.jpg">
-    <img alt="queen-miku" height="200" src="https://files.catbox.moe/h6aff2.jpg">
+    <img alt="MvelaseAI-XMD" height="200" src="https://files.catbox.moe/h6aff2.jpg">
     
    Loading...
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
