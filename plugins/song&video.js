@@ -16,7 +16,7 @@ const search = await yts(q)
 const data = search.videos[0]
 const url = data.url
 
-let desc = `╭━❮◆ MIKU MD SONG DOWNLOADER ◆❯━╮
+let desc = `╭━❮◆ MvelaseAI-XMD SONG DOWNLOADER ◆❯━╮
 
 ┃➤✰ 𝚃𝙸𝚃𝙻𝙴 : ${data.title}
 
@@ -63,7 +63,7 @@ const search = await yts(q)
 const data = search.videos[0]
 const url = data.url
 
-let des = `╭━❮◆ MIKU MD VIDEO DOWNLOADER ◆❯━╮
+let des = `╭━❮◆ MvelaseAI-XMD VIDEO DOWNLOADER ◆❯━╮
 
 ┃➤✰ 𝚃𝙸𝚃𝙻𝙴 : ${data.title}
 
