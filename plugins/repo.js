@@ -11,21 +11,21 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 
-let dec = `*👋 Hello ${pushname}*
+let dec = `*𝗛𝗲𝗟𝗟𝗼 ${pushname}*
           
-📍𝖱𝖾𝗉𝗈 𝖫𝗂𝗇𝗄 ❤️‍🔥👇
+🎭𝗠𝘃𝗲𝗹𝗮𝘀𝗲𝗔𝗜-𝗫𝗠𝗗 𝗕𝗢𝗧𝗜𝗜 𝗥𝗘𝗣𝗢 ⬇
 
 👨‍💻◦ https://github.com/MveLaseAI/MvelaseAI-XMD 
 
-📍𝖯𝗅𝖾𝖺𝗌𝖾 𝖲𝗎𝖻𝗌𝖼𝗋𝗂𝖻𝖾 𝖬𝗒 𝖸𝗈𝗎𝗍𝗎𝖻𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 👇
+🎭𝙋𝙇𝙀𝘼𝙎𝙀 𝙎𝙐𝘽𝙎𝘾𝙍𝙄𝘽𝙀 𝙏𝙊 𝙔𝙊𝙐𝙏𝙐𝘽𝙀 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 ⬇
 
 👨‍💻◦ https://youtube.com/@mvelaseai-xmd?si=hT4DetYyEI_mE-gq 
 
-📍𝖯𝗅𝖾𝖺𝗌𝖾 𝖥𝗈𝗅𝗅𝗈𝗐 𝖬𝗒 𝖶𝗁𝖺𝗍𝗌𝖺𝗉𝗉 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 👇
+🎭𝙋𝙇𝙀𝘼𝙎𝙀 𝙁𝙊𝙇𝙇𝙊𝙒 𝙈𝙔 𝙒𝙃𝘼𝙏𝙎𝘼𝙋𝙋 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 ⬇
 
 👨‍💻◦ https://whatsapp.com/channel/0029VajdbH511ulTyGysZq17
 
-> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ*
+> *©𝗠𝘃𝗲𝗹𝗮𝘀𝗲𝗔𝗜-𝗫𝗠𝗗 𝗕𝗢𝗧𝗜𝗜*
 `
 await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/n5vvij.jpg`},caption:dec},{quoted:mek});
 
