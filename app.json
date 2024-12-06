@@ -1,7 +1,7 @@
 {
   "name": "MvelaseAI-XMD",
   "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
-  "logo": "https://files.catbox.moe/n5vvij.jpg",
+  "logo": "https://files.catbox.moe/h6aff2.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -12,12 +12,12 @@
     },  
 
     "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+      "description": "https://files.catbox.moe/h6aff2.jpg",
       "required": true
     },
     
     "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
+      "description": "HeLLo MvelaseAI-XMD is ALive.",
       "required": true
     }   
 },
