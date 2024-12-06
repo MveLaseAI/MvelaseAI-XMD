@@ -1,12 +1,12 @@
 {
-  "name": "MIKU-MD",
+  "name": "MvelaseAI-XMD",
   "version": "1.0.0",
-  "description": "A WhatsApp Bot Created By Malvin",
+  "description": "A WhatsApp Bot Created By Techguy",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name MIKU-MD",
-    "stop": "pm2 stop MIKU-MD",
-    "restart": "pm2 restart MIKU-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name MvelaseAI-XMD",
+    "stop": "pm2 stop MvelaseAI-XMD",
+    "restart": "pm2 restart MvelaseAI-XMD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
